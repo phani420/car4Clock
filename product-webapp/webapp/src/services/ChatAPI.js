@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // const baseUrl = 'http://localhost:8080/chat-service';
-const baseUrl = 'https://carentz.stackroute.io/chat-service';
+const baseUrl = 'http://13.235.16.107:8080/chat-service';
 
 
 export const getUsers = () => {

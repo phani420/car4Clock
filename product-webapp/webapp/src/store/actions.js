@@ -8,7 +8,7 @@ import {
 } from "./constants";
 import axios from "axios";
 //const baseUrl = 'http://localhost:8080/user-service';
-const baseUrl = 'https://carentz.stackroute.io/user-service';
+const baseUrl = 'http://13.235.16.107:8080/user-service';
 
 
 
